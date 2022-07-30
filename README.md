@@ -7,4 +7,4 @@ Por defecto selecciona el primer plan de estudios
 
 **EL MODO INSISTENTE ES EXPERIMENTAL Y LA VERDAD NO TENGO IDEA COMO SE COMPORTE**
 
-![](https://tenor.com/uZCp.gif)
+![](https://github.com/v4rgas/GottaGoFast/blob/main/important.gif)
